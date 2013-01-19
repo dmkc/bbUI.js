@@ -127,7 +127,6 @@ _bb10_radio = {
 							this.style['-webkit-transition-property'] = 'all';
 							this.style['-webkit-transition-duration'] = '0.1s';
 							this.style['-webkit-transition-timing-function'] = 'ease-in';
-							this.style['-webkit-backface-visibility'] = 'hidden';
 							this.style['-webkit-perspective'] = 1000;
 							this.style['-webkit-transform'] = 'translate3d(0,0,0)';
 							// Make our center white dot visible
